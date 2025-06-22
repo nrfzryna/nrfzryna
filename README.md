@@ -12,6 +12,7 @@
 - 📱 Frameworks: Flutter, Angular, Laravel (learning)
 - 🌐 Web: HTML5, CSS3, MySQL
 - 🎮 AR/VR Dev: Unity, AR Foundation, MediaPipe
+- 📊 Data Analytics: Tableau, Power BI
 - 🎨 Design: Figma, Blender
 
 ---
