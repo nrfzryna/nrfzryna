@@ -26,7 +26,7 @@ Here are a few highlighted projects:
   _[Private academic project]_
 
 - 📱 **Car Rental App** (Flutter - Android)  
-  A clean UI car rental application with booking features (find the apk download link in WebProg repo)   
+  A clean UI car rental application with booking features (find the apk download link in AppDev repo)   
 
 - 🌐 **Leave Management System** (PHP + MySQL)  
   Role-based web app with admin, manager, and staff dashboards  
@@ -38,7 +38,6 @@ Here are a few highlighted projects:
 
 - 📧 Email: nurfazrina0450@gmail.com
 - 💼 LinkedIn: [Nurfazrina Syakila]([https://www.linkedin.com/in/nurfazrina-syakila/])  
-- 🧠 Portfolio: _Coming soon!_
 
 ---
 
